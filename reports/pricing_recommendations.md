@@ -1,0 +1,32 @@
+# Pricing Review Recommendations
+
+These are screening hypotheses generated from synthetic data, not approved price changes.
+
+- **Grocery Beverages Item 105 (Grocery)** — revenue 21,620.30; gross profit -3,655.80; margin -16.9%; weighted discount 33.6%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Toys Outdoor Play Item 027 (Toys)** — revenue 96,336.36; gross profit -14,609.30; margin -15.2%; weighted discount 33.2%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Fashion Bags Item 118 (Fashion)** — revenue 79,375.41; gross profit -997.48; margin -1.3%; weighted discount 32.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Pet Accessories Item 119 (Pet Supplies)** — revenue 17,077.42; gross profit 355.60; margin 2.1%; weighted discount 7.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Grocery Snacks Item 085 (Grocery)** — revenue 157,897.30; gross profit 4,460.75; margin 2.8%; weighted discount 7.0%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Home Storage Item 102 (Home & Kitchen)** — revenue 22,981.36; gross profit 651.63; margin 2.8%; weighted discount 6.8%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Beauty Cosmetics Item 053 (Beauty)** — revenue 2,019.70; gross profit 57.40; margin 2.8%; weighted discount 33.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Electronics Accessories Item 051 (Electronics)** — revenue 57,671.67; gross profit 1,695.20; margin 2.9%; weighted discount 7.0%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Fashion Basics Item 068 (Fashion)** — revenue 99,630.57; gross profit 3,002.04; margin 3.0%; weighted discount 6.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Toys Games Item 017 (Toys)** — revenue 46,880.97; gross profit 1,603.10; margin 3.4%; weighted discount 6.5%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Sports Outdoor Item 014 (Sports)** — revenue 2,171.58; gross profit 79.39; margin 3.7%; weighted discount 33.2%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Home Cookware Item 092 (Home & Kitchen)** — revenue 38,754.16; gross profit 1,768.62; margin 4.6%; weighted discount 33.6%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Sports Fitness Item 034 (Sports)** — revenue 20,187.08; gross profit 1,313.75; margin 6.5%; weighted discount 3.1%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Toys Outdoor Play Item 117 (Toys)** — revenue 14,185.66; gross profit 1,528.87; margin 10.8%; weighted discount 12.2%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Pet Food Item 009 (Pet Supplies)** — revenue 100,451.40; gross profit 12,487.51; margin 12.4%; weighted discount 7.2%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Electronics Audio Item 061 (Electronics)** — revenue 52,285.86; gross profit 6,893.82; margin 13.2%; weighted discount 6.6%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Books Education Item 110 (Books)** — revenue 39,710.35; gross profit 5,289.02; margin 13.3%; weighted discount 7.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Electronics Audio Item 031 (Electronics)** — revenue 24,527.80; gross profit 3,301.54; margin 13.5%; weighted discount 7.6%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Grocery Beverages Item 015 (Grocery)** — revenue 4,763.87; gross profit 646.75; margin 13.6%; weighted discount 6.3%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Books Education Item 080 (Books)** — revenue 61,603.01; gross profit 8,363.73; margin 13.6%; weighted discount 6.6%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Grocery Pantry Item 065 (Grocery)** — revenue 8,056.51; gross profit 1,105.67; margin 13.7%; weighted discount 7.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Beauty Haircare Item 073 (Beauty)** — revenue 120,808.40; gross profit 17,792.81; margin 14.7%; weighted discount 7.0%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Sports Outdoor Item 074 (Sports)** — revenue 6,324.33; gross profit 940.74; margin 14.9%; weighted discount 6.9%. Reason: Margin below 15%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Books Fiction Item 040 (Books)** — revenue 112,827.16; gross profit 20,009.55; margin 17.7%; weighted discount 33.6%. Reason: Weighted discount above 30%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Furniture Office Item 066 (Furniture)** — revenue 45,057.96; gross profit 9,726.48; margin 21.6%; weighted discount 33.4%. Reason: Weighted discount above 30%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+- **Pet Care Item 079 (Pet Supplies)** — revenue 25,266.22; gross profit 7,183.28; margin 28.4%; weighted discount 33.5%. Reason: Weighted discount above 30%. Validate demand, inventory, strategic role, cost freshness, and data quality before action.
+
+Do not infer that discounts caused the observed performance. Run matched or randomized tests where feasible.

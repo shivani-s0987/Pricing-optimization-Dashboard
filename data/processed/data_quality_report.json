@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-10-28T11:59:36.595806+00:00",
+  "seed": 20261028,
+  "raw_rows": 20006,
+  "clean_rows": 20000,
+  "quarantined_rows": 6,
+  "products": 120,
+  "categories": 10,
+  "regions": 5,
+  "channels": 4,
+  "date_min": "2024-01-01",
+  "date_max": "2025-12-31",
+  "duplicate_ids_raw": 1,
+  "rejection_reasons": {
+    "quantity_not_positive": 1,
+    "discount_out_of_range": 1,
+    "selling_price_negative": 1,
+    "unknown_product_fk": 1,
+    "duplicate_sales_line_id": 1,
+    "unit_cost_negative": 1
+  },
+  "synthetic": true
+}

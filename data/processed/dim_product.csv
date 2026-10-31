@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,Subcategory,Brand,CurrentListPrice,CurrentUnitCost,ProductStatus
+P001,Electronics Audio Item 001,Electronics,Audio,Northstar,8.52,3.87,Active
+P002,Home Cookware Item 002,Home & Kitchen,Cookware,UrbanNest,106.9,41.64,Active
+P003,Beauty Skincare Item 003,Beauty,Skincare,Everwell,73.62,29.99,Active
+P004,Sports Fitness Item 004,Sports,Fitness,Peakline,117.71,77.38,Active
+P005,Grocery Pantry Item 005,Grocery,Pantry,BrightLeaf,16.49,7.7,Active
+P006,Furniture Office Item 006,Furniture,Office,CoreCraft,73.5,54.28,Active
+P007,Toys Learning Item 007,Toys,Learning,Bluebird,75.84,39.07,Active
+P008,Fashion Basics Item 008,Fashion,Basics,Oak & Vale,119.62,55.32,Active
+P009,Pet Food Item 009,Pet Supplies,Food,Northstar,283.58,231.56,Active
+P010,Books Fiction Item 010,Books,Fiction,UrbanNest,22.36,17.21,Active
+P011,Electronics Computing Item 011,Electronics,Computing,Everwell,161.43,88.94,Active
+P012,Home Storage Item 012,Home & Kitchen,Storage,Peakline,25.91,16.61,Active
+P013,Beauty Haircare Item 013,Beauty,Haircare,BrightLeaf,205.47,83.88,Active
+P014,Sports Outdoor Item 014,Sports,Outdoor,CoreCraft,9.14,5.94,Active
+P015,Grocery Beverages Item 015,Grocery,Beverages,Bluebird,10.65,8.69,Active
+P016,Furniture Living Item 016,Furniture,Living,Oak & Vale,27.07,12.96,Active
+P017,Toys Games Item 017,Toys,Games,Northstar,107.92,98.21,Active
+P018,Fashion Footwear Item 018,Fashion,Footwear,UrbanNest,59.15,45.06,Active
+P019,Pet Care Item 019,Pet Supplies,Care,Everwell,42.5,22.95,Active
+P020,Books Education Item 020,Books,Education,Peakline,113.87,73.08,Active
+P021,Electronics Accessories Item 021,Electronics,Accessories,BrightLeaf,23.45,15.96,Active
+P022,Home Appliances Item 022,Home & Kitchen,Appliances,CoreCraft,44.62,18.55,Active
+P023,Beauty Cosmetics Item 023,Beauty,Cosmetics,Bluebird,13.66,8.15,Review
+P024,Sports Apparel Item 024,Sports,Apparel,Oak & Vale,108.7,79.93,Active
+P025,Grocery Snacks Item 025,Grocery,Snacks,Northstar,330.48,232.58,Active
+P026,Furniture Bedroom Item 026,Furniture,Bedroom,UrbanNest,11.83,6.95,Active
+P027,Toys Outdoor Play Item 027,Toys,Outdoor Play,Everwell,344.85,267.36,Active
+P028,Fashion Bags Item 028,Fashion,Bags,Peakline,131.4,90.9,Active
+P029,Pet Accessories Item 029,Pet Supplies,Accessories,BrightLeaf,116.96,49.11,Active
+P030,Books Hobbies Item 030,Books,Hobbies,CoreCraft,41.48,24.77,Active
+P031,Electronics Audio Item 031,Electronics,Audio,Bluebird,58.06,46.74,Active
+P032,Home Cookware Item 032,Home & Kitchen,Cookware,Oak & Vale,55.06,26.27,Active
+P033,Beauty Skincare Item 033,Beauty,Skincare,Northstar,22.24,16.14,Active
+P034,Sports Fitness Item 034,Sports,Fitness,UrbanNest,41.65,37.9,Active
+P035,Grocery Pantry Item 035,Grocery,Pantry,Everwell,43.73,31.54,Active
+P036,Furniture Office Item 036,Furniture,Office,Peakline,76.61,45.69,Active
+P037,Toys Learning Item 037,Toys,Learning,BrightLeaf,10.01,5.99,Active
+P038,Fashion Basics Item 038,Fashion,Basics,CoreCraft,170.49,92.06,Active
+P039,Pet Food Item 039,Pet Supplies,Food,Bluebird,67.67,37.04,Active
+P040,Books Fiction Item 040,Books,Fiction,Oak & Vale,401.68,221.26,Active
+P041,Electronics Computing Item 041,Electronics,Computing,Northstar,29.52,18.92,Active
+P042,Home Storage Item 042,Home & Kitchen,Storage,UrbanNest,178.09,122.64,Active
+P043,Beauty Haircare Item 043,Beauty,Haircare,Everwell,53.64,31.97,Active
+P044,Sports Outdoor Item 044,Sports,Outdoor,Peakline,187.61,86.43,Active
+P045,Grocery Beverages Item 045,Grocery,Beverages,BrightLeaf,33.87,18.65,Active
+P046,Furniture Living Item 046,Furniture,Living,CoreCraft,249.73,124.21,Review
+P047,Toys Games Item 047,Toys,Games,Bluebird,101.44,65.22,Active
+P048,Fashion Footwear Item 048,Fashion,Footwear,Oak & Vale,77.63,29.64,Active
+P049,Pet Care Item 049,Pet Supplies,Care,Northstar,16.64,9.81,Active
+P050,Books Education Item 050,Books,Education,UrbanNest,338.66,146.24,Active
+P051,Electronics Accessories Item 051,Electronics,Accessories,Everwell,134.05,121.99,Active
+P052,Home Appliances Item 052,Home & Kitchen,Appliances,Peakline,144.42,73.41,Active
+P053,Beauty Cosmetics Item 053,Beauty,Cosmetics,BrightLeaf,8.08,5.23,Active
+P054,Sports Apparel Item 054,Sports,Apparel,CoreCraft,73.7,38.97,Active
+P055,Grocery Snacks Item 055,Grocery,Snacks,Bluebird,34.59,15.77,Active
+P056,Furniture Bedroom Item 056,Furniture,Bedroom,Oak & Vale,63.81,39.09,Active
+P057,Toys Outdoor Play Item 057,Toys,Outdoor Play,Northstar,193.87,104.69,Active
+P058,Fashion Bags Item 058,Fashion,Bags,UrbanNest,37.21,19.26,Active
+P059,Pet Accessories Item 059,Pet Supplies,Accessories,Everwell,8.58,5.97,Active
+P060,Books Hobbies Item 060,Books,Hobbies,Peakline,17.56,6.85,Active
+P061,Electronics Audio Item 061,Electronics,Audio,BrightLeaf,151.0,123.52,Active
+P062,Home Cookware Item 062,Home & Kitchen,Cookware,CoreCraft,90.28,66.45,Active
+P063,Beauty Skincare Item 063,Beauty,Skincare,Bluebird,91.3,35.83,Active
+P064,Sports Fitness Item 064,Sports,Fitness,Oak & Vale,70.64,27.91,Active
+P065,Grocery Pantry Item 065,Grocery,Pantry,Northstar,20.15,16.2,Active
+P066,Furniture Office Item 066,Furniture,Office,UrbanNest,150.75,79.24,Active
+P067,Toys Learning Item 067,Toys,Learning,Everwell,10.16,4.02,Active
+P068,Fashion Basics Item 068,Fashion,Basics,Peakline,204.22,185.84,Active
+P069,Pet Food Item 069,Pet Supplies,Food,BrightLeaf,45.32,26.88,Review
+P070,Books Fiction Item 070,Books,Fiction,CoreCraft,10.67,8.53,Active
+P071,Electronics Computing Item 071,Electronics,Computing,Bluebird,55.12,29.16,Active
+P072,Home Storage Item 072,Home & Kitchen,Storage,Oak & Vale,40.25,18.96,Active
+P073,Beauty Haircare Item 073,Beauty,Haircare,Northstar,263.96,210.91,Active
+P074,Sports Outdoor Item 074,Sports,Outdoor,UrbanNest,16.56,13.23,Active
+P075,Grocery Beverages Item 075,Grocery,Beverages,Everwell,17.26,12.11,Active
+P076,Furniture Living Item 076,Furniture,Living,Peakline,47.06,25.41,Active
+P077,Toys Games Item 077,Toys,Games,BrightLeaf,166.37,96.41,Active
+P078,Fashion Footwear Item 078,Fashion,Footwear,CoreCraft,11.45,6.53,Active
+P079,Pet Care Item 079,Pet Supplies,Care,Bluebird,77.0,37.01,Active
+P080,Books Education Item 080,Books,Education,Oak & Vale,156.91,127.74,Active
+P081,Electronics Accessories Item 081,Electronics,Accessories,Northstar,101.3,55.06,Active
+P082,Home Appliances Item 082,Home & Kitchen,Appliances,UrbanNest,136.24,98.56,Active
+P083,Beauty Cosmetics Item 083,Beauty,Cosmetics,Everwell,86.99,40.34,Active
+P084,Sports Apparel Item 084,Sports,Apparel,Peakline,157.16,124.61,Active
+P085,Grocery Snacks Item 085,Grocery,Snacks,BrightLeaf,375.37,341.59,Active
+P086,Furniture Bedroom Item 086,Furniture,Bedroom,CoreCraft,317.52,189.8,Active
+P087,Toys Outdoor Play Item 087,Toys,Outdoor Play,Bluebird,107.66,41.03,Active
+P088,Fashion Bags Item 088,Fashion,Bags,Oak & Vale,48.59,35.11,Active
+P089,Pet Accessories Item 089,Pet Supplies,Accessories,Northstar,122.68,94.55,Active
+P090,Books Hobbies Item 090,Books,Hobbies,UrbanNest,166.78,85.29,Active
+P091,Electronics Audio Item 091,Electronics,Audio,Everwell,145.74,66.97,Active
+P092,Home Cookware Item 092,Home & Kitchen,Cookware,Peakline,136.39,87.09,Review
+P093,Beauty Skincare Item 093,Beauty,Skincare,BrightLeaf,227.7,113.58,Active
+P094,Sports Fitness Item 094,Sports,Fitness,CoreCraft,88.69,47.35,Active
+P095,Grocery Pantry Item 095,Grocery,Pantry,Bluebird,56.24,30.37,Active
+P096,Furniture Office Item 096,Furniture,Office,Oak & Vale,71.92,48.34,Active
+P097,Toys Learning Item 097,Toys,Learning,Northstar,206.6,79.09,Active
+P098,Fashion Basics Item 098,Fashion,Basics,UrbanNest,37.23,28.06,Active
+P099,Pet Food Item 099,Pet Supplies,Food,Everwell,42.62,23.78,Active
+P100,Books Fiction Item 100,Books,Fiction,Peakline,60.17,29.03,Active
+P101,Electronics Computing Item 101,Electronics,Computing,BrightLeaf,165.07,113.74,Active
+P102,Home Storage Item 102,Home & Kitchen,Storage,CoreCraft,57.85,52.64,Active
+P103,Beauty Haircare Item 103,Beauty,Haircare,Bluebird,10.41,8.17,Active
+P104,Sports Outdoor Item 104,Sports,Outdoor,Oak & Vale,265.01,167.42,Active
+P105,Grocery Beverages Item 105,Grocery,Beverages,Northstar,67.34,52.52,Active
+P106,Furniture Living Item 106,Furniture,Living,UrbanNest,183.87,138.81,Active
+P107,Toys Games Item 107,Toys,Games,Everwell,52.39,30.11,Active
+P108,Fashion Footwear Item 108,Fashion,Footwear,Peakline,26.67,12.48,Active
+P109,Pet Care Item 109,Pet Supplies,Care,BrightLeaf,9.19,3.85,Active
+P110,Books Education Item 110,Books,Education,CoreCraft,94.88,76.55,Active
+P111,Electronics Accessories Item 111,Electronics,Accessories,Bluebird,65.18,39.59,Active
+P112,Home Appliances Item 112,Home & Kitchen,Appliances,Oak & Vale,95.31,61.48,Active
+P113,Beauty Cosmetics Item 113,Beauty,Cosmetics,Northstar,14.0,9.36,Active
+P114,Sports Apparel Item 114,Sports,Apparel,UrbanNest,168.29,90.88,Active
+P115,Grocery Snacks Item 115,Grocery,Snacks,Everwell,175.64,101.07,Review
+P116,Furniture Bedroom Item 116,Furniture,Bedroom,Peakline,59.51,30.23,Active
+P117,Toys Outdoor Play Item 117,Toys,Outdoor Play,BrightLeaf,43.36,34.17,Active
+P118,Fashion Bags Item 118,Fashion,Bags,CoreCraft,264.16,180.19,Active
+P119,Pet Accessories Item 119,Pet Supplies,Accessories,Bluebird,43.01,39.14,Active
+P120,Books Hobbies Item 120,Books,Hobbies,Oak & Vale,91.48,70.13,Active

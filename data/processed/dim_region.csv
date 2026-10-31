@@ -1,0 +1,6 @@
+RegionID,RegionName,StateOrTerritory,MarketType
+R01,North,Delhi,Urban
+R02,South,Karnataka,Urban
+R03,West,Maharashtra,Urban
+R04,East,West Bengal,Mixed
+R05,Central,Madhya Pradesh,Mixed

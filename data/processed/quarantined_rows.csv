@@ -1,0 +1,7 @@
+SalesLineID,OrderID,OrderDate,ProductID,Quantity,UnitListPrice,DiscountPct,UnitSellingPrice,UnitCost,RejectReason
+BAD0001,O0000001,2025-12-15,P108,0,27.05,0.0445,25.85,12.43,quantity_not_positive
+BAD0002,O0000002,2024-11-20,P023,9,13.75,1.25,13.64,8.04,discount_out_of_range
+BAD0003,O0000003,2024-01-14,P079,1,77.0,0.3624,-3.0,36.77,selling_price_negative
+BAD0004,O0000004,2025-11-30,P999,1,138.27,0.2674,101.3,86.86,unknown_product_fk
+L000006,O0000005,2025-05-02,P062,2,91.18,0.0649,85.26,65.11,duplicate_sales_line_id
+BAD0006,O0000006,2025-04-15,P104,5,267.49,0.1495,227.51,-1.0,unit_cost_negative
